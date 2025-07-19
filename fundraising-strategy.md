@@ -1,6 +1,6 @@
 # Fundraising Strategy: Small Contributions from Many Supporters
 
-**Author:** Rob Street, Field Representative  
+**Author:** Rob Street
 **Date:** July 19, 2025  
 **License:** Creative Commons Attribution 4.0 (CC BY 4.0)
 
